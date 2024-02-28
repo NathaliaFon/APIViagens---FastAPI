@@ -1,7 +1,7 @@
 ### Requerimentos para a utilização da API:
 #### Instalar Extensões;
 - **Thunder Client**
-- **Materual Icon Theme**
+- **Material Icon Theme**
 #### Executar na shell integrada os comandos;
 - ```python -m venv env```
 - ```env\Sripts\activate```
